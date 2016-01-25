@@ -1,0 +1,13 @@
+SmoothX KDE Plasma 5 Desktop Theme
+
+Mail: sasha.1594@gmail.com
+
+Please copy smoothx folder to ~/.local/share/plasma/desktoptheme/
+
+and from settings change the desktop theme.
+
+and from the aurorae folder copy smoothx to
+
+~/.local/share/aurorae/themes/
+
+and change the window decoration from settings.
